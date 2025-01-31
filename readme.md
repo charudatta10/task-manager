@@ -1,3 +1,17 @@
+> [!IMPORTANT]
+> Read the follwing notices before contribtuing to this project.
+
+> [!CAUTION]  
+> Project Archived
+
+> [!WARNING]
+> This project, [Task Manager](https://github.com/charudatta10/task-manager), has been archived and is no longer maintained. 
+
+> [!TIP]
+> For future developments and improvements, please refer to project: [Task Runner SDLC](https://github.com/charudatta10/task-runner-SDLC).
+
+> [!NOTE]
+> Thank you for your support and contributions!
  
 # Task Manager
 
